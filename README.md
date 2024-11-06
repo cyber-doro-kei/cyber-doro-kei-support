@@ -19,6 +19,6 @@
 ## 泥棒陣営
 警察から時間内に逃げ切る
 
-## お問い合わせ
+## お問い合わせ　& サポート
 お問い合わせはこちらから
-→　satsusarii@icloud.com
+→　satsusarii[at]icloud.com
