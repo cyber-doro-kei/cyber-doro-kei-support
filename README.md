@@ -19,6 +19,10 @@
 ## 泥棒陣営
 警察から時間内に逃げ切る
 
+## プライバシーポリシー
+プライバシーポリシーはこちらから
+→ https://github.com/cyber-doro-kei/cyber-dorokei-privacy
+
 ## お問い合わせ　& サポート
 お問い合わせはこちらから
 →　satsusarii[at]icloud.com
